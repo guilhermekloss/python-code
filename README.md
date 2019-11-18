@@ -1,15 +1,14 @@
 # python-code
 
-Python code to open a csv arquive
+Codigo para coletar cotaçoes de açoes
 
-Installing pandas and its dependencies in Anaconda is easily done:
-
-    As is using pip/pipenv for other Python installations:
-
-    $ pip install pandas
+Sem drama inatalar python 3 e rodar
 
 For request
 
     pip install requests
+
+
+Estou me baseando no seguinte:
 
 Codigobase https://gist.github.com/maurobaraldi/40ec1daf0005530dd94a

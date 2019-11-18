@@ -14,10 +14,12 @@ def GetCodigosAtivos():
     response = requests.get(assets)
     retorno = json.loads(response.text)
     retorno = json.dumps(retorno)   
-    print (retorno)
+    #print (retorno)
+    
     f = open("codativos.json", "w")
     f.write(retorno)
     f.close()
+
 
 
 
