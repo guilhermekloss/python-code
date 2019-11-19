@@ -1,13 +1,13 @@
 # python-code
 
-Codigo para coletar cotaçoes de açoes
+Codigo coleta os codigos de ativos para obter a cotação do mesmo
 
-Sem drama inatalar python 3.7.5 e rodar
+Python 3.7.5
 
-For request
+Instalar as libs extras
 
     pip install requests
 
+Basta executar a Main
 
-
-Codigobase https://gist.github.com/maurobaraldi/40ec1daf0005530dd94a
+    python3 Main.py 
